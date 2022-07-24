@@ -98,7 +98,7 @@ if finalscore <= 47:
 elif finalscore > 47 and finalscore < 125:
     print("You two go together like Coke and Mentos")
 ```
+<img width="965" alt="Screen Shot 2022-07-24 at 6 37 32 PM" src="https://user-images.githubusercontent.com/66803124/180668624-d7d7713b-c8a0-4427-b875-a7b30a235a11.png">
 
-<img width="1002" alt="Screen Shot 2022-07-24 at 6 28 38 PM" src="https://user-images.githubusercontent.com/66803124/180668314-44b98bb5-0362-4824-bad1-f1f5cad53aaf.png">
 
 Unfortunately, I must have written the program wrong since Jace is now my wife and things have been going quite well... so proceed with caution while using this highly scientific tool. 
