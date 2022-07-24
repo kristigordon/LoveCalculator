@@ -6,7 +6,7 @@ This is creating a Love Calculator based on an old game/Buzzfeed article looking
 
 Link: https://www.buzzfeed.com/ariannarebolini/what-are-the-chances-your-crush-is-actually-your-true-love
 
-Here were the instructions:
+# Here were the instructions:
 ```
 You are going to write a program that tests the compatibility between two people.
 
@@ -68,6 +68,8 @@ To do this, there were a couple of new introductions I needed to have. .lower() 
 Stack Overflow on .lower(): https://stackoverflow.com/questions/6797984/how-do-i-lowercase-a-string-in-python
 
 Stack Overflow on .count():https://stackoverflow.com/questions/1155617/count-the-number-occurrences-of-a-character-in-a-string
+
+# This is my solution
 
 ```
 print("Welcome to the Love Calculator! Discover your destiny.")
